@@ -1,2 +1,2 @@
-# dotted-loader
-This repo is an application of dotted loader
+# Dotted Loader
+- This repo is an application of a dotted loader
